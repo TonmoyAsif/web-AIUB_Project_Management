@@ -1,0 +1,28 @@
+ .textbox1 {
+       border:2px solid #456879;
+       border-radius:5px;
+       border-color: white;
+       background-color: darkslategrey;
+       color:white;
+       font-size:16px;
+       height: 22px;
+       width: 230px;
+}
+.small_textbox{
+	border:2px solid #456879;
+	border-radius:5px;
+        border-color: white;
+        background-color: darkslategrey;
+        color:white;
+        font-size:16px;
+        height: 22px;
+}
+.small_textboxx{
+  border:2px solid #456879;
+  border-radius:5px;
+        border-color: white;
+        background-color: darkslategrey;
+        color:white;
+        font-size:16px;
+        height: 100px;
+}

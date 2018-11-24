@@ -1,0 +1,81 @@
+	
+#block_container {
+    display: flex;
+}
+.city {
+    background-color: darkslategrey;
+    color: white;
+    font-family: sans-serif;
+    font-size: 150%;
+    padding: 10px;
+    line-height: 170%;
+}
+.warning {
+    color: white;
+    font-family: sans-serif;
+    font-size: 70%;
+    
+}
+
+#myHeader {
+    background-color: whitesmoke;
+    color: darkslategrey;
+    padding: 10px;
+    position: center;
+    font-size: 200%;
+    
+}
+#myHeader1 {
+    
+    color: whitesmoke;
+    padding: 8px;
+    font-size: 150%;
+    text-align: center;
+}
+
+.myHeaderx {
+    
+    color: whitesmoke;
+    padding: 8px;
+    font-size: 150%;
+    text-align: center;
+}
+
+a:link {
+    color: cornflowerblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: cornflowerblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: mediumblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: cornflowerblue;
+    background-color: transparent;
+
+}
+.button {
+    background-color:darkslategray;
+    border-style: solid;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
